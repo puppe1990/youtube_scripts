@@ -1,0 +1,14 @@
+transcripts/
+__pycache__/
+.env
+.DS_Store
+.ipynb_checkpoints/
+.pytest_cache/
+.ruff_cache/
+.vscode/
+.idea/
+.cursor/
+.cursor/
+list.txt
+proxies.txt
+links.csv
